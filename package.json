@@ -1,6 +1,6 @@
 {
   "name": "ks3",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "本代码库为`金山云存储KS3`服务.主要提供`KS3 nodejs SDK`和`命令行工具`.",
   "main": "index.js",
   "bin": {
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "https://github.com/ks3sdk/ks3-nodejs-sdk"
   },
-  "keywords" : [
+  "keywords": [
     "ks3",
     "ksyun",
     "sdk"
@@ -21,8 +21,8 @@
   "author": "",
   "contributors": [
     {
-      "name":"chenjin",
-      "email":"chenjin@kingsoft.com"
+      "name": "chenjin",
+      "email": "chenjin@kingsoft.com"
     }
   ],
   "license": "MIT",
